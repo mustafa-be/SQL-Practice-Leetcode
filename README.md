@@ -1,10 +1,10 @@
 # SQL-Practice-Leetcode
 
 
-### Problem Title : Median Employee Salary
-**Link** : https://leetcode.com/problems/median-employee-salary/
-**Description** : Write a SQL query to find the median salary of each company.
-**Solution** :
+### Problem Title : Median Employee Salary  
+**Link** : https://leetcode.com/problems/median-employee-salary/   
+**Description** : Write a SQL query to find the median salary of each company.  
+**Solution** :  
 
         select 
             company,median 
